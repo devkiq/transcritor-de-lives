@@ -2,7 +2,7 @@
 .venv/
 
 # Arquivos gerados pelo Python
-__pycache__/
+__pycache__
 *.pyc
 
 # Arquivos de áudio baixados
@@ -11,7 +11,7 @@ audios/
 # Transcrições geradas
 transcricoes/
 
-# Variáveis de ambiente 
+# Variáveis de ambiente
 .env
 
 # Configurações locais do VS Code
